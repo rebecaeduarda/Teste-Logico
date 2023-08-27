@@ -1,7 +1,7 @@
 # ✔️ Prova de teste lógico 
 
 ## 💻 Sobre o projeto
-Nesse projeto eu mostrava quatro quadros lógicos como:
+Nesse projeto eu mostra quatro quadros lógicos como:
 
 1- Soma de dois números.
 2- Se eu clicar no botão a telinha ficava vermelha.

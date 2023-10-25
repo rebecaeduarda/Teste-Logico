@@ -4,9 +4,9 @@
 Nesse projeto eu mostra quatro quadros lógicos como:
 
 1- Soma de dois números.
-2- Se eu clicar no botão a telinha ficava vermelha.
+2- Se eu clicar no botão a telinha fica vermelha.
 3- Colocar uma lista de 1 à 5.
-3- Era condição de uma média, menor que 6 reprovado e maior aprovado.
+3- Criar uma condição de média, menor que seis reprovado e maior que seis aprovado.
 
 
 ## 🛠 Tecnologias utilizadas
